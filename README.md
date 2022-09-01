@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 
 
+![jyi6270's github stats](https://github-readme-stats.vercel.app/api?username=jyi6270&show_icons=true)
