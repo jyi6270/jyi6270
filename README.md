@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyi6270&layout=compact)](https://github.com/jyi6270/github-readme-stats)
